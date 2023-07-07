@@ -18,8 +18,8 @@ jobs:
           #  archive: tar.gz tar.xz
           #- target: armv7-linux-androideabi
           #  archive: tar.gz tar.xz
-          #- target: aarch64-linux-android
-          #  archive: tar.gz tar.xz
+          - target: aarch64-linux-android
+            archive: tar.gz tar.xz
           #- target: x86_64-linux-android
           #  archive: tar.gz tar.xz
           #- target: i686-linux-android
